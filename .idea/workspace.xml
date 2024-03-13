@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a81db65-9209-47c7-bd89-e5e79a23f9fe" name="Changes" comment="" />
+    <list default="true" id="6a81db65-9209-47c7-bd89-e5e79a23f9fe" name="Changes" comment="this is a test">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-javaee-project-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-javase-project-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="d5fa7e0a-fc75-4738-beeb-8aa4127eb8c5" name="dont_commit" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +19,36 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="5" changelist="d5fa7e0a-fc75-4738-beeb-8aa4127eb8c5" />
+        <range start1="3" end1="4" start2="6" end2="17" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="11" end1="11" start2="24" end2="54" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="25" end1="25" start2="68" end2="69" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="26" end1="26" start2="70" end2="71" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="27" end1="27" start2="72" end2="76" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="28" end1="28" start2="77" end2="79" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="31" end1="31" start2="82" end2="89" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="35" end1="35" start2="93" end2="94" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="39" end1="40" start2="98" end2="99" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="41" end1="41" start2="100" end2="109" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+        <range start1="45" end1="45" start2="113" end2="128" changelist="6a81db65-9209-47c7-bd89-e5e79a23f9fe" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\apache-maven-3.9.6\repository" />
+        <option name="mavenHome" value="D:\software\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -23,25 +63,65 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/All-In-One/maven-all-in-one/maven-javaee-project-02/src/main/java/com/maven/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a81db65-9209-47c7-bd89-e5e79a23f9fe" name="Changes" comment="" />
+      <changelist id="d5fa7e0a-fc75-4738-beeb-8aa4127eb8c5" name="dont_commit" comment="" />
       <created>1710300435560</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710300435560</updated>
-      <workItem from="1710300435561" duration="8000" />
+      <workItem from="1710300435561" duration="6913000" />
     </task>
+    <task id="LOCAL-00001" summary="this is a test">
+      <option name="closed" value="true" />
+      <created>1710300935953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710300935953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is a test" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is a test" />
   </component>
 </project>
