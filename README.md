@@ -2,4 +2,4 @@
 
 This is a comprehensive tutorial from 0 to 1 for Maven.
 
-This is a test.
+Follow [wiki](https://github.com/YugenFring/Maven-All-In-One/wiki) for best practice.
