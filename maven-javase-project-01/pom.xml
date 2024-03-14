@@ -2,10 +2,38 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- Basic information -->
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.maven</groupId>
     <artifactId>maven-javase-project-01</artifactId>
     <version>1.0.0</version>
 
+    <packaging>jar</packaging>
+
+    <!-- Add property variables -->
+    <properties>
+        <!-- This is a custom property -->
+        <junit.version>4.11</junit.version>
+        <!-- This is a built-in maven property -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
+    <!-- Add dependencies -->
+    <dependencies>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <!-- Reference to the property above -->
+            <version>${junit.version}</version>
+        </dependency>
+    </dependencies>
 </project>
