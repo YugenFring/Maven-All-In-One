@@ -12,7 +12,7 @@
     <packaging>war</packaging>
 
 
-    <!-- Add plugins -->
+    <!-- Add plugins for war -->
     <build>
         <plugins>
             <plugin>
