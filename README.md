@@ -1,5 +1,5 @@
 # Maven-All-In-One
 
-This is a comprehensive tutorial from 0 to 1 for Maven.
+Thie is a comprehensive Maven tutorial from 0 to 1.
 
-Follow [wiki](https://github.com/YugenFring/Maven-All-In-One/wiki) for best practice.
+Refer to [wiki](https://github.com/YugenFring/Maven-All-In-One/wiki) for best practices.
