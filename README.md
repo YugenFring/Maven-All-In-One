@@ -1,5 +1,12 @@
-# Maven-All-In-One
+# Maven All-In-One
 
-This is a comprehensive tutorial from 0 to 1 for Maven.
+This is a basic tutorial covering the fundamentals of Maven, a popular build automation tool.
 
-Follow [wiki](https://github.com/YugenFring/Maven-All-In-One/wiki) for best practice.
+Topics covered:
+
+- [**QuickStart**](https://github.com/YugenFring/Maven-All-In-One/wiki/0-QuickStart): Introduction to Maven and installation guide.
+- [**Building Project**](https://github.com/YugenFring/Maven-All-In-One/wiki/1-Building-Project): Creating new Maven projects and setting GAVP attributes.
+- [**Key Features**](https://github.com/YugenFring/Maven-All-In-One/wiki/3-Main-Features): Dependency management(dependency transitivity, conflict resolution) using *pom.xml*.
+- [**Practice**](https://github.com/YugenFring/Maven-All-In-One/wiki/4-Practice): Building a simple project to demonstrate Maven's capabilities.
+
+For best practices and additional information, refer to the accompanying [wiki](https://github.com/YugenFring/Maven-All-In-One/wiki) 
